@@ -13,4 +13,13 @@ console.log(otherNumber.toPrecision(3));
 const numbers = 1000000000
 console.log(numbers.toLocaleString());
 
-// +++++++++++++++++++++ MATHS ++++++++++++++++++++++++++++
+// +++++++++++++++++++++ MATHS ++++++++++++++++++++++
+
+
+console.log(Math);
+console.log(Math.abs(-4));
+console.log(Math.round(4.6));
+console.log(Math.ceil(4.2));
+console.log(Math.floor(4.9));
+console.log(Math.min(9, 6, 3, 8));
+console.log(Math.max(9, 6, 3, 8));
